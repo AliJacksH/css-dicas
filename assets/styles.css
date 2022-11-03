@@ -1,0 +1,32 @@
+@import "nav.css";
+@import "var.css";
+
+*{
+    margin: 0;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+nav ul{
+    background-color: rgb(15, 121, 68);
+}
+
+section{
+    padding-top: 4rem;
+    min-height: 100vh;
+    /* background: var(--gradiente); */
+}
+
+#ass1{  
+    background-color: var(--cor);
+}
+
+#ass2{
+    background-color: var(--cor2);
+}
+
+#ass3{
+    background-color: var(--cor3);
+}

@@ -1,0 +1,6 @@
+:root{
+    --cor: tomato;
+    --cor2: paleturquoise;
+    --cor3: yellowgreen;
+    --gradiente: linear-gradient(var(--cor), var(--cor3));
+ }
